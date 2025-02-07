@@ -126,15 +126,10 @@
 <!-- jasdflkj -->
 <!-- GitHub Stats and Activity -->
 <!-- GitHub Streak Stats -->
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=y0riii&theme=radical&border=199260&background=0D1117">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=y0riii&theme=radical&border=199260&background=0D1117" alt="Yassin's GitHub streak"/>
-    </a>
-</p>
   
   <p align="center">
     <a href="https://github.com/y0riii">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0riii&theme=radical" alt="Yassin's GitHub Contribution"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0riii&theme=radical" alt="Youssef's GitHub Contribution"/>
     </a>
   </p>
   
