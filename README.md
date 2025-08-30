@@ -7,17 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1ACAD6&size=30&center=true&vCenter=true&lines=Hello%2C+I'm+Youssef;Software+Engineer;Full+Stack+Developer;"></a>
 </p>
 
-<!-- Visitors Count -->
-<div align="center">
-  <br/><p align="centre"><b>Profile Views</b></p>  
-  <p align="center">
-    <a href="https://profile-counter.glitch.me/y0riii/count.svg">
-  <img align="center" src="https://profile-counter.glitch.me/y0riii/count.svg" />
-      </a>
-  </p>
-  <br/>
-</div>
-
 <hr/>
 
 <!-- About Me Section -->
