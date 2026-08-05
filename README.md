@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Youssef</h1>
-<h3 align="center">Student at Faculty of Computers and Artificial Intelligence, Cairo University</h3>
+<h3 align="center">Graduate of Faculty of Computers and Artificial Intelligence, Cairo University</h3>
 <!-- <h3 align="center">Web Developer | Competitive Programmer | Cyber Security Enthusiast</h3> -->
 
 <!-- Typing SVG -->
@@ -115,12 +115,6 @@
 <!-- jasdflkj -->
 <!-- GitHub Stats and Activity -->
 <!-- GitHub Streak Stats -->
-  
-  <p align="center">
-    <a href="https://github.com/y0riii">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0riii&theme=radical" alt="Youssef's GitHub Contribution"/>
-    </a>
-  </p>
   
   <a> 
       <a href="https://denvercoder1-github-readme-stats.vercel.app/api?username=y0riii&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866"><img alt="Yassin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=y0riii&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
